@@ -1,0 +1,23 @@
+_repo: Satellite-Passage_60608
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Thomas, Theodore L.
+    alias: Thomas, Theodore Lockhard
+    birthdate: 1920
+    deathdate: 2005
+    gutenberg_agent_id: '26100'
+    url: http://www.gutenberg.org/2009/agents/26100
+description: ''
+gutenberg_issued: '2019-11-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60608'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Satellite Passage
+url: http://www.gutenberg.org/ebooks/60608
